@@ -2,8 +2,6 @@
 
 var express = require('express');
 var kraken = require('kraken-js');
-var session = require('express-session');
-var lusca = require('lusca');
 
 
 var options, app;
